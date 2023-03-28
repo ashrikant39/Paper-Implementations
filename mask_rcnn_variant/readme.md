@@ -1,0 +1,1 @@
+This project aimed to detect glaucoma from instance segmentation of optic cup and disc. The reference paper: [Robust Segmentation of Optic Disc and Cup from Fundus Images Using Deep Neural Networks](https://arxiv.org/abs/2012.07128).
