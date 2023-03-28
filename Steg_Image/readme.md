@@ -1,1 +1,1 @@
-This was a project I had a chance to mentor where an image is hidden inside another image and recovered using deep learning.
+This was a project I had a chance to mentor where an image is hidden inside another image and recovered using deep learning. This method was directly inspired from (Hiding Images within Images)[https://ieeexplore.ieee.org/document/8654686].
